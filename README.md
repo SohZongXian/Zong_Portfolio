@@ -61,7 +61,7 @@ For more projects, please visit : https://github.com/SohZongXian
 
 - **End-to-End Data Engineering Projects**: Spearheaded the development of multiple end-to-end data engineering projects and pipelines using a diverse tech stack including Python, Airflow, PySpark, Azure Data Factory (ADF), Snowflake, and Google BigQuery, illustrating comprehensive skills in data engineering and pipeline management.
 
-Interested? Please get in touch 😊 
+**Interested? Please get in touch** 😊 
 
 Email : zongxiansoh1@gmail.com
 
