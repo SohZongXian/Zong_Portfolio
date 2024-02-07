@@ -1,4 +1,3 @@
-# Zong Xian Portfolio
 ## Introduction
 Welcome to my portfolio! I am a dedicated professional who graduated with a specialization in data analytics from a reputable computer science program, achieving a commendable CGPA of 3.78 out of 4.00. With three years of hands-on experience in data engineering and a background in freelancing within the realm of data science, I have honed my skills and developed a profound understanding of the intricacies of data.
 
